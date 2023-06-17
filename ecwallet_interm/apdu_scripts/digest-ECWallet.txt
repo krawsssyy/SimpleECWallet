@@ -1,0 +1,12 @@
+Digest for eu/ism/jc/javacard/ConstantPool.cap		[SHA-256: c21e871c7c1ff88ae165542d9ba12868a26344b6915d050f3bb97f926bf71dd7]
+Digest for eu/ism/jc/javacard/Applet.cap		[SHA-256: fbc37ec1662bd170310a831fad8eb135a9cc95cc495112c4ae88863b519f2b0a]
+Digest for eu/ism/jc/javacard/Method.cap		[SHA-256: 3b4c63fb9be7edaa39fdf7d86a31f669771d8f68e8a26367ac9f0da332bba973]
+Digest for eu/ism/jc/javacard/RefLocation.cap		[SHA-256: 48233e2ed3c8f1072fe8fc9c51e3cac0c076118a0fdc35418b1371af98beda14]
+Digest for eu/ism/jc/javacard/Directory.cap		[SHA-256: 9ac17c2263b8e4eace73a15b9b929807e8d5c0f72d61b0b46f3f1e40ceda33c1]
+Digest for eu/ism/jc/javacard/Header.cap		[SHA-256: 4c1c651bdf7f9356fbfb359fc192ded18233e065f1a4e7fdeaa830a7451001cd]
+Digest for eu/ism/jc/javacard/Import.cap		[SHA-256: 8cc3642a6d49023dc39aece31584cf15757e6bbcbc1e299514366eae84efce86]
+Digest for eu/ism/jc/javacard/StaticField.cap		[SHA-256: 5863e9740af5fb905922380b2aa88309a16a285dd3412417ae8af941327901ee]
+Digest for eu/ism/jc/javacard/Debug.cap		[SHA-256: 0f66259563c73fad085dbc897cab56de94ca51acecc86cb56c2ccc249a3f3b02]
+Digest for eu/ism/jc/javacard/Class.cap		[SHA-256: e443a031230240eeb1c5c1d9d0174157c7ac9d37ee40403f32f7c8d61f77ff3e]
+Digest for eu/ism/jc/javacard/Descriptor.cap		[SHA-256: 23f06480ea679baac03d54b57c9f4dac68f9164e210a77d1e560a07eb9a14587]
+Verification completed with 0 warnings and 0 errors.
